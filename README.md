@@ -1,7 +1,4 @@
-# Welcome to my GitHub 🎉
+# Unique Commit for Sebastian-Nielsen1090
 
-> Yak shaving since {year}.
-
-Builder of things, mostly Docker and Express.
-
-📫 Reach me through GitHub
+Random data: wwwwwwwwww
+Date: 2026-05-01
